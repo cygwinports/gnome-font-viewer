@@ -1,12 +1,10 @@
 inherit gnome2
 
 NAME="gnome-font-viewer"
-VERSION=3.8.0
+VERSION=3.10.0
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="GNOME font viewer"
 DESCRIPTION="Includes six GNOME Desktop utilities: baobab (filesystem monitor),
 gnome-dictionary, gnome-font-viewer, gnome-screenshot, gnome-search-tool, and
 gnome-system-log."
-
-ACLOCAL_FLAGS="-I libgd"
