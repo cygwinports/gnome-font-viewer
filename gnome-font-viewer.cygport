@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="gnome-font-viewer"
-VERSION=3.16.2
+VERSION=3.22.0
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="GNOME font viewer"
