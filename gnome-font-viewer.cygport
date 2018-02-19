@@ -1,7 +1,7 @@
-inherit gnome2
+inherit gnome.org meson
 
 NAME="gnome-font-viewer"
-VERSION=3.24.0
+VERSION=3.26.0
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="GNOME font viewer"
